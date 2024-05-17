@@ -29,9 +29,9 @@ publist = {
     "proceeding": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "In the Proceedings of the ",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publication/conference/"}
         
     },
     "journal":{
@@ -39,7 +39,7 @@ publist = {
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publication/journal/"}
     } 
 }
 
@@ -145,7 +145,7 @@ for pubsource in publist:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
             if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n"
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 

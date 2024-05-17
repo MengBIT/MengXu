@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, Victoria University of Wellington, 2024
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+--------------------------------------------------
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Education
+* PhD in Computer Science, Victoria University of Wellington, 2024 
+* MSc in Control Science and Engineering, Beijing Institute of Technology, 2020 
+* BSc in Automation, Beijing Institute of Technology, 2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+--------------------------------------------------
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Intership experience
+* **10/2020-04/2022: Algorithm Engineer, Zhejiang Lab (National Laboratory Base in China)**
+* Project: The Cloud Brain project
+  * Developed a dynamic workflow scheduling simulator tailored for multiple robots operating in a cloud-side environment based on the background of the guided tour robot and the Cloud Brain project.
+  * Proposed a genetic programming algorithm to solve the problem, which resulted in a paper that was published by IEEE Transactions on Services Computing (IF 8.1).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+--------------------------------------------------
+
+* **07/2019-09/2019: Algorithm Engineer, Alibaba, China**
+  * Project: The Passenger Flow Tracking project
+    * Developed a streamlined real-time pedestrian detection and tracking method utilising depth images and a two-pass algorithm. 
+    * Conducted tests for the proposed method using two RGB-D cameras in an actual supermarket in Shanghai, achieving a passenger flow detection accuracy of 95\%. 
+    * Accomplished key node detection for wrist skeleton using the Openpose algorithm and employed point cloud fusion for recognising touch behavior.
+    
+--------------------------------------------------
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+# Skills
+* **Languages**
+  * Java, Python, R Script, LaTeX, C++
+* **Tools**
+  * Git/GitHub, IntelliJ PyCharm/IDEA, Microsoft Office
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+--------------------------------------------------  
+
+# Talks
+* **11/2023: Queensland University, Brisbane, Australia**
+  * Paper presentation at the International Conference AJCAI.
+  * Poster presentation at PhD Forum of AJCAI and achieved the **best poster runner-up**.
+  * Achieve the **award of 500 AUD** supported by the PhD Forum.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
