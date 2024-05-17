@@ -20,9 +20,9 @@ redirect_from:
 
 # Intership experience
 * **10/2020-04/2022: Algorithm Engineer, Zhejiang Lab (National Laboratory Base in China)**
-* Project: The Cloud Brain project
-  * Developed a dynamic workflow scheduling simulator tailored for multiple robots operating in a cloud-side environment based on the background of the guided tour robot and the Cloud Brain project.
-  * Proposed a genetic programming algorithm to solve the problem, which resulted in a paper that was published by IEEE Transactions on Services Computing (IF 8.1).
+  * Project: The Cloud Brain project
+    * Developed a dynamic workflow scheduling simulator tailored for multiple robots operating in a cloud-side environment based on the background of the guided tour robot and the Cloud Brain project.
+    * Proposed a genetic programming algorithm to solve the problem, which resulted in a paper that was published by IEEE Transactions on Services Computing (IF 8.1).
 
 --------------------------------------------------
 
