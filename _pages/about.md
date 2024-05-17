@@ -9,8 +9,7 @@ redirect_from:
 
 A PhD student major in Computer Science, Victoria University of Wellington.
 
-Research Interests
-======
+# Research Interests
 * Evolutionary Computation and Learning 
 * Combinatorial Optimisation 
 * Genetic Programming 
@@ -20,13 +19,11 @@ Research Interests
 * Reinforcement Learning
 
 
-Education
-======
+# Education
 * PhD in Computer Science, Victoria University of Wellington, 2024 
 * MSc in Control Science and Engineering, Beijing Institute of Technology, 2020 
 * BSc in Automation, Beijing Institute of Technology, 2017
 
 
-For more info
-------
-Welcome to follow our work and cooperation. Please feel free to reach out to me by email: meng.xu@ecs.vuw.ac.nz.
+# For More Information
+Stay up-to-date on our work and explore collaboration opportunities. Feel free to reach out to me by email: meng.xu@ecs.vuw.ac.nz.
