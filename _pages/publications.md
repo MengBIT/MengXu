@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Journel and Conference
+# Journal and Conference
 
 {% for post in site.publications reversed %}
 
